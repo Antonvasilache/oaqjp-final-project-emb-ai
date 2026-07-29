@@ -1,0 +1,16 @@
+theia@theiadocker-antonvasilac:/home/project/final_project$ python3 test_emotion_detection.py
+200
+The dominant emotion: joy
+200
+The dominant emotion: anger
+200
+The dominant emotion: disgust
+200
+The dominant emotion: sadness
+200
+The dominant emotion: fear
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.612s
+
+OK
